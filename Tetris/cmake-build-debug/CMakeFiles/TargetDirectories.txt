@@ -1,0 +1,3 @@
+C:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/Tetris/cmake-build-debug/CMakeFiles/Tetris.dir
+C:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir

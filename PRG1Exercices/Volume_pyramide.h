@@ -4,8 +4,9 @@ Auteur(s)      : Kiala binga Christnovie
 Date creation  : 08.10.2024
 Description    : programme calcule le volume d'un pyramide
 Remarque(s)    : version 1.0.0
-Compilateur    : Mingw-w64 g++ 11.1.0  -----------------------------------------------------------------------------------
-*/
+Compilateur    : Mingw-w64 g++ 11.1.0
+-----------------------------------------------------------------------------------*/
+
 #ifndef VOLUME_PYRAMIDE_H
 #define VOLUME_PYRAMIDE_H
 #endif //VOLUME_PYRAMIDE_H
