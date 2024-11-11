@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Helpdesk.NB-8788\Documents\RPG01LABO\PRG1Exercices
+CMAKE_SOURCE_DIR = C:\Users\Chris\OneDrive\Documents\GitHub\RPG01LABO\PRG1Exercices
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Helpdesk.NB-8788\Documents\RPG01LABO\PRG1Exercices\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Chris\OneDrive\Documents\GitHub\RPG01LABO\PRG1Exercices\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Helpdesk.NB-8788\Documents\RPG01LABO\PRG1Exercices\cmake-build-debug\CMakeFiles C:\Users\Helpdesk.NB-8788\Documents\RPG01LABO\PRG1Exercices\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Chris\OneDrive\Documents\GitHub\RPG01LABO\PRG1Exercices\cmake-build-debug\CMakeFiles C:\Users\Chris\OneDrive\Documents\GitHub\RPG01LABO\PRG1Exercices\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Helpdesk.NB-8788\Documents\RPG01LABO\PRG1Exercices\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Chris\OneDrive\Documents\GitHub\RPG01LABO\PRG1Exercices\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,6 +128,30 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+ExerciceSerie5/main.obj: ExerciceSerie5/main.cpp.obj
+.PHONY : ExerciceSerie5/main.obj
+
+# target to build an object file
+ExerciceSerie5/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ExerciceSerie5/main.cpp.obj
+.PHONY : ExerciceSerie5/main.cpp.obj
+
+ExerciceSerie5/main.i: ExerciceSerie5/main.cpp.i
+.PHONY : ExerciceSerie5/main.i
+
+# target to preprocess a source file
+ExerciceSerie5/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ExerciceSerie5/main.cpp.i
+.PHONY : ExerciceSerie5/main.cpp.i
+
+ExerciceSerie5/main.s: ExerciceSerie5/main.cpp.s
+.PHONY : ExerciceSerie5/main.s
+
+# target to generate assembly for a file
+ExerciceSerie5/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ExerciceSerie5/main.cpp.s
+.PHONY : ExerciceSerie5/main.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
+	@echo ... ExerciceSerie5/main.obj
+	@echo ... ExerciceSerie5/main.i
+	@echo ... ExerciceSerie5/main.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

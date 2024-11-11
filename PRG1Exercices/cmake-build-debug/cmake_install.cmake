@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices
+# Install script for directory: C:/Users/Chris/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Chris/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
