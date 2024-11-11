@@ -20,6 +20,7 @@ int main () {
             << "7. buffer de lecture"                 << endl
             << "8. Exit"                              << endl;
       cin >> choice;
+      cin.ignore();
       switch (choice) {
          case 1: SaveFileTxt();
                   break;

@@ -49,57 +49,8 @@ cmake_ninja_workdir = C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Ex
 
 build cmake_object_order_depends_target_ExerciceSerie5: phony || .
 
-build CMakeFiles/ExerciceSerie5.dir/main.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/main.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\main.cpp.obj.d
-  FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
-  OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
-  OBJECT_FILE_DIR = CMakeFiles\ExerciceSerie5.dir
-
-build CMakeFiles/ExerciceSerie5.dir/Save_text.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/Save_text.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\Save_text.cpp.obj.d
-  FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
-  OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
-  OBJECT_FILE_DIR = CMakeFiles\ExerciceSerie5.dir
-
-build CMakeFiles/ExerciceSerie5.dir/Read_write_file.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/Read_write_file.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\Read_write_file.cpp.obj.d
-  FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
-  OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
-  OBJECT_FILE_DIR = CMakeFiles\ExerciceSerie5.dir
-
-build CMakeFiles/ExerciceSerie5.dir/Redirection_Cin.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/Redirection_Cin.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\Redirection_Cin.cpp.obj.d
-  FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
-  OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
-  OBJECT_FILE_DIR = CMakeFiles\ExerciceSerie5.dir
-
-build CMakeFiles/ExerciceSerie5.dir/Formatage_divers.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/Formatage_divers.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\Formatage_divers.cpp.obj.d
-  FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
-  OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
-  OBJECT_FILE_DIR = CMakeFiles\ExerciceSerie5.dir
-
-build CMakeFiles/ExerciceSerie5.dir/Formatage_info.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/Formatage_info.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\Formatage_info.cpp.obj.d
-  FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
-  OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
-  OBJECT_FILE_DIR = CMakeFiles\ExerciceSerie5.dir
-
-build CMakeFiles/ExerciceSerie5.dir/Input_controler.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/Input_controler.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\Input_controler.cpp.obj.d
-  FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
-  OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
-  OBJECT_FILE_DIR = CMakeFiles\ExerciceSerie5.dir
-
-build CMakeFiles/ExerciceSerie5.dir/Buffer.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/Buffer.cpp || cmake_object_order_depends_target_ExerciceSerie5
-  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\Buffer.cpp.obj.d
+build CMakeFiles/ExerciceSerie5.dir/correction.cpp.obj: CXX_COMPILER__ExerciceSerie5_unscanned_Debug C$:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/correction.cpp || cmake_object_order_depends_target_ExerciceSerie5
+  DEP_FILE = CMakeFiles\ExerciceSerie5.dir\correction.cpp.obj.d
   FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g -std=gnu++14 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/Helpdesk.NB-8788/Documents/PRG1/RPG01LABO/PRG1Exercices/ExerciceSerie5/.
   OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir
@@ -113,7 +64,7 @@ build CMakeFiles/ExerciceSerie5.dir/Buffer.cpp.obj: CXX_COMPILER__ExerciceSerie5
 #############################################
 # Link the executable ExerciceSerie5.exe
 
-build ExerciceSerie5.exe: CXX_EXECUTABLE_LINKER__ExerciceSerie5_Debug CMakeFiles/ExerciceSerie5.dir/main.cpp.obj CMakeFiles/ExerciceSerie5.dir/Save_text.cpp.obj CMakeFiles/ExerciceSerie5.dir/Read_write_file.cpp.obj CMakeFiles/ExerciceSerie5.dir/Redirection_Cin.cpp.obj CMakeFiles/ExerciceSerie5.dir/Formatage_divers.cpp.obj CMakeFiles/ExerciceSerie5.dir/Formatage_info.cpp.obj CMakeFiles/ExerciceSerie5.dir/Input_controler.cpp.obj CMakeFiles/ExerciceSerie5.dir/Buffer.cpp.obj
+build ExerciceSerie5.exe: CXX_EXECUTABLE_LINKER__ExerciceSerie5_Debug CMakeFiles/ExerciceSerie5.dir/correction.cpp.obj
   FLAGS = -Wconversion -Wall -Wextra -pedantic -Wsign-conversion -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ExerciceSerie5.dir

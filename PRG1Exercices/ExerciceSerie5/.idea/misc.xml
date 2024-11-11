@@ -4,7 +4,6 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="RiderCppLiveTemplatesSettings" type="string" />
     <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=C35068C18B542D4D889BD5236DF77ACA/Text/@EntryValue" value="/* ----------------------------------------------------------------------------------- &#10;Nom du fichier : main.cpp&#10;Auteur(s)      : Kiala binga Christnovie&#10;Date creation  : &lt;jj.mm.aaaa&gt; &#10;Description    : &lt;à compléter&gt;&#10;Remarque(s)    : version 1.0.0 &#10;Compilateur    : Mingw-w64 g++ 11.1.0  ----------------------------------------------------------------------------------- &#10;*/ &#10;#include &lt;cstdlib&gt; &#10;#include &lt;iostream&gt; &#10;using namespace std; &#10;int main() { &#10;&lt;code&gt; &#10;return EXIT_SUCCESS; &#10;} " type="string" />
     <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=2848890644D27D45B08949FEC7E3B92F/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
@@ -53,6 +52,7 @@
     <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=B7BE71258D044642BBD79BDB75F0000B/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
     <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=B7BE71258D044642BBD79BDB75F0000B/Reformat/@EntryValue" value="true" type="bool" />
     <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=B7BE71258D044642BBD79BDB75F0000B/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakePythonSetting">
     <option name="pythonIntegrationState" value="YES" />
