@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Chris/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices/cmake-build-debug"
+			"value" : "d:/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -559,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Chris/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Chris/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices"
+			"value" : "D:/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Chris/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices/cmake-build-debug"
+			"value" : "D:/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices/cmake-build-debug"
 		},
 		{
 			"name" : "PRG1Exercices_IS_TOP_LEVEL",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Chris/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices"
+			"value" : "D:/OneDrive/Documents/GitHub/RPG01LABO/PRG1Exercices"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
